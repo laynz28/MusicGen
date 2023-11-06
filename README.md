@@ -7,7 +7,7 @@ tags:
   - "LLMs"
 app_file: "app.py"
 emoji: 🎵
-colorFrom: white
+colorFrom: gray
 colorTo: blue
 sdk: gradio
 sdk_version: 3.34.0
